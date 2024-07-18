@@ -1,4 +1,4 @@
-# Colombo City Skylines Project
+# Colombo: Skylines
 
 This project aims to create a virtual representation of Colombo, Sri Lanka using the Cities: Skylines game engine. The goal is to provide a visual and interactive tool for understanding urban design interventions and their potential impacts on the city.
 
@@ -89,6 +89,8 @@ The project relies on various data sources to ensure accuracy:
 1. Curated and created custom 3D assets to match Colombo's architecture
 2. Used Google Street View to identify building types
 3. Manually placed landmark buildings
+
+## Modlist
 
 ## Limitations
 
