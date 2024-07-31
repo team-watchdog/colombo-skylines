@@ -3,8 +3,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -55,20 +53,7 @@ While professional expertise often resides in academic papers and reports, visua
 ![image](https://github.com/user-attachments/assets/a35daf52-8f46-45f5-a855-5cca4130d557)
 
 ## Getting Started
-
-### Prerequisites
-
-- Cities: Skylines game (base version)
-- Required mods:
-  - Realistic Population 2 (v2.2.2.4)
-  - Lifecycle Rebalance Revisited (v1.6.8)
-  - TM:PE (Traffic Manager: President Edition)
-
-### Installation
-
-1. Clone this repository
-2. Install the required mods in your Cities: Skylines game
-3. Load the Colombo city save file in Cities: Skylines
+Refer the [Colombo Skylines Wiki](https://github.com/team-watchdog/colombo-skylines/wiki/Setting-up) to get started.
 
 ## Usage
 
