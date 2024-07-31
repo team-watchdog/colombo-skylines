@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## More Information
 
-For detailed documentation on methodology, data sources, and technical specifications, please refer to our [project wiki](https://github.com/yourusername/colombo-simulation/wiki).
+For detailed documentation on methodology, data sources, and technical specifications, please refer to our [project wiki](https://github.com/team-watchdog/colombo-skylines/wiki).
 
 ## Contact
 
