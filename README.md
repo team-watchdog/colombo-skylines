@@ -45,6 +45,7 @@ While professional expertise often resides in academic papers and reports, visua
 - Maximum vehicles in motion: 65,636
 - Maximum parked vehicles: 65,636
 - Maximum transport lines: 256
+- Vehicle to population ratio: approximately 1:10 (real Colombo: 1:5)
 
 ## Getting Started
 
@@ -70,12 +71,6 @@ This simulation can be used to:
 2. Test potential infrastructure changes
 3. Explore impacts of policy decisions on traffic and population distribution
 4. Educate students and the public about urban planning concepts
-
-## Limitations
-
-- Maximum population: 1,048,576 citizens
-- Maximum area: 298.6 sq km
-- Vehicle to population ratio: approximately 1:10 (real Colombo: 1:5)
 
 ## Contributing
 
