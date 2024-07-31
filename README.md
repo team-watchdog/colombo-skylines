@@ -1,15 +1,11 @@
 # Table of Contents
 
 - [Introduction](#introduction)
-  - [Why Cities Skylines?](#why-cities-skylines)
 - [Features](#features)
-  - [Limitations](#limitations)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Limitations](#limitations-1)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [More Information](#more-information)
