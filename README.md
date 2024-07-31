@@ -20,6 +20,9 @@ In early 2024, we embarked on a project to help the general public better unders
 
 While professional expertise often resides in academic papers and reports, visualizing urban planning concepts can be challenging. Traditional software used for urban analysis, such as CUBE or OpenPaths, are complex and expensive. We chose to use Cities Skylines, a 2015 video game known for its complex and flexible urban simulation capabilities.
 
+![image](https://github.com/user-attachments/assets/e33b971b-e53b-4119-ac32-2bf28dd44722)
+
+
 ### Why Cities Skylines?
 
 1. Cost-effective: $19.99 for a perpetual license vs. $6,000 – 8,600 for an annual CUBE license
@@ -34,7 +37,7 @@ While professional expertise often resides in academic papers and reports, visua
 - Detailed land use and zoning based on official city development plans
 - Simulated population dynamics reflecting real-world demographics
 - Implemented public transport routes (rail and bus)
-- Customized visual assets to match Colombo's unique architectural style
+- Curated visual assets to better match Colombo's unique architectural style
 
 ![image](https://github.com/user-attachments/assets/54ea5597-5655-40a5-9163-4cddce554fff)
 
@@ -48,6 +51,7 @@ While professional expertise often resides in academic papers and reports, visua
 - Maximum parked vehicles: 65,636
 - Maximum transport lines: 256
 - Vehicle to population ratio: approximately 1:10 (real Colombo: 1:5)
+
 ![image](https://github.com/user-attachments/assets/a35daf52-8f46-45f5-a855-5cca4130d557)
 
 ## Getting Started
