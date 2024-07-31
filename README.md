@@ -1,15 +1,19 @@
-# Colombo City Simulation Project
+# Table of Contents
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Methodology](#methodology)
-   1. [Topography](#1-topography)
-   2. [Land Use and Zoning](#2-land-use-and-zoning)
-   3. [Administrative Divisions](#3-administrative-divisions)
-   4. [Citizens and Populations](#4-citizens-and-populations)
-   5. [Transport](#5-transport)
-   6. [Visuals](#6-visuals)
-3. [Conclusion](#conclusion)
+- [Introduction](#introduction)
+  - [Why Cities Skylines?](#why-cities-skylines)
+- [Features](#features)
+  - [Limitations](#limitations)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Limitations](#limitations-1)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [More Information](#more-information)
+- [Contact](#contact)
 
 ## Introduction
 
