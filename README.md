@@ -1,112 +1,100 @@
-# Colombo: Skylines
-
-This project aims to create a virtual representation of Colombo, Sri Lanka using the Cities: Skylines game engine. The goal is to provide a visual and interactive tool for understanding urban design interventions and their potential impacts on the city.
+# Colombo City Simulation Project
 
 ## Table of Contents
+1. [Introduction](#introduction)
+2. [Methodology](#methodology)
+   1. [Topography](#1-topography)
+   2. [Land Use and Zoning](#2-land-use-and-zoning)
+   3. [Administrative Divisions](#3-administrative-divisions)
+   4. [Citizens and Populations](#4-citizens-and-populations)
+   5. [Transport](#5-transport)
+   6. [Visuals](#6-visuals)
+3. [Conclusion](#conclusion)
 
-1. [Project Overview](#project-overview)
-2. [Data Sources](#data-sources)
-3. [Methodology](#methodology)
-   - [Topography](#topography)
-   - [Land Use and Zoning](#land-use-and-zoning)
-   - [Administrative Divisions](#administrative-divisions)
-   - [Population and Citizens](#population-and-citizens)
-   - [Transport](#transport)
-   - [Visuals](#visuals)
-4. [Limitations](#limitations)
-5. [Usage](#usage)
-6. [Conclusion](#conclusion)
+## Introduction
 
-## Project Overview
+In early 2024, we embarked on a project to help the general public better understand the city of Colombo and the impacts of various urban design interventions.  Our goal is to provide a visual and interactive tool for understanding urban design, infrastructure, and policy impacts in Colombo.
 
-The Colombo City Skylines Project uses the Cities: Skylines video game as a platform to create a detailed, agent-based simulation of Colombo. This virtual city serves as a "Digital Twin" to help visualize and understand urban design interventions and their potential impacts.
+While professional expertise often resides in academic papers and reports, visualizing urban planning concepts can be challenging. Traditional software used for urban analysis, such as CUBE or OpenPaths, are complex and expensive. We chose to use Cities Skylines, a 2015 video game known for its complex and flexible urban simulation capabilities.
 
-Key features:
-- 1:1 scale representation of Colombo's geography and road network
-- Accurate land use and zoning based on official development plans
-- Simulated population with commuting patterns
-- Representation of public and private transport systems
-- Visually customized to resemble Colombo's architecture and streetscapes
+### Why Cities Skylines?
 
-## Data Sources
+1. Cost-effective: $19.99 for a perpetual license vs. $6,000 – 8,600 for an annual CUBE license
+2. User-friendly: Designed for the general public
+3. Superior visualization capabilities
+4. Thriving modding community for extended functionality
 
-The project relies on various data sources to ensure accuracy:
 
-- UN State of Sri Lankan Cities report (2018)
-- CoMTrans report and Home Visit Survey
-- Urban Development Authority city development plans (2021-2030)
-- Colombo Municipal Council maps and data
-- Satellite imagery (Google Earth Pro, Sentinel-2)
-- OpenStreetMap data
-- Road Development Authority (RDA) data
-- Asian Development Bank sector assessments
-- Meta's Data for Good program (high-resolution population data)
-- Expert consultations (e.g., Prof. Amal S. Kumarage, University of Moratuwa)
+## Features
 
-## Methodology
+- Accurate topographical representation of Colombo
+- Detailed land use and zoning based on official city development plans
+- Simulated population dynamics reflecting real-world demographics
+- Implemented public transport routes (rail and bus)
+- Customized visual assets to match Colombo's unique architectural style
 
-### Topography
+### Limitations
 
-1. Imported OpenStreetMap data for Colombo's road network
-2. Mapped RDA road classifications to Cities: Skylines road types
-3. Used satellite imagery to refine geographical features
-4. Manually rebuilt roads to achieve 99% accuracy in city dimensions
+- Maximum virtual population: 1,048,576 citizens
+- Maximum area: 298.6 sq km
+- Maximum buildings: 49,152
+- Maximum vehicles in motion: 65,636
+- Maximum parked vehicles: 65,636
+- Maximum transport lines: 256
 
-### Land Use and Zoning
+## Getting Started
 
-1. Extracted land-use map from Colombo city development plan
-2. Mapped UDA categories to Cities: Skylines zoning types
-3. Used Meta's high-resolution population data to determine density
-4. Manually placed major institutions (schools, hospitals, universities)
+### Prerequisites
 
-### Administrative Divisions
+- Cities: Skylines game (base version)
+- Required mods:
+  - Realistic Population 2 (v2.2.2.4)
+  - Lifecycle Rebalance Revisited (v1.6.8)
+  - TM:PE (Traffic Manager: President Edition)
 
-- Partitioned the city into 15 districts based on Colombo Municipal Council maps
+### Installation
 
-### Population and Citizens
-
-1. Estimated 2020 population:
-   - Total: 1,048,000
-   - Residents: 555,300
-   - Commuters: 492,700
-2. Distributed commuter population based on seven major entry corridors
-3. Used mods to customize population characteristics:
-   - Realistic Population 2 (2.2.2.4)
-   - Lifecycle Rebalance Revisited (1.6.8)
-
-### Transport
-
-1. Public Transport:
-   - Replicated three main railway lines
-   - Implemented three key bus routes
-2. Private Transport:
-   - Set vehicle spawn criteria based on RDA data
-   - Modified traffic behavior using TM:PE mod
-   - Adjusted vehicle-to-population ratios
-
-### Visuals
-
-1. Curated and created custom 3D assets to match Colombo's architecture
-2. Used Google Street View to identify building types
-3. Manually placed landmark buildings
-
-## Modlist
-
-## Limitations
-
-- Population and vehicle ratios may not perfectly match real-world data due to game engine constraints
-- Public transport runs on exact schedules without real-world variations
-- Maximum of 135,000 total vehicles (moving and parked) at any given time
+1. Clone this repository
+2. Install the required mods in your Cities: Skylines game
+3. Load the Colombo city save file in Cities: Skylines
 
 ## Usage
 
-This virtual Colombo can be used to:
+This simulation can be used to:
 
-1. Visualize and understand current urban design issues
-2. Test and communicate potential infrastructure changes
-3. Explore the impact of policy decisions on traffic and population distribution
+1. Visualize current urban design issues in Colombo
+2. Test potential infrastructure changes
+3. Explore impacts of policy decisions on traffic and population distribution
 4. Educate students and the public about urban planning concepts
 
-## Conclusion
+## Limitations
 
-While not a perfect representation, this Cities: Skylines model of Colombo serves as a valuable tool for visualizing and communicating urban design concepts. It bridges the gap between complex urban planning data and public understanding, potentially improving discourse around city development projects.
+- Maximum population: 1,048,576 citizens
+- Maximum area: 298.6 sq km
+- Vehicle to population ratio: approximately 1:10 (real Colombo: 1:5)
+
+## Contributing
+
+We welcome contributions to improve the accuracy and functionality of the simulation. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to participate.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- Colombo Municipal Council for providing essential data
+- University of Moratuwa for expert consultations
+- Meta's Data for Good program for high-resolution population data
+
+## More Information
+
+For detailed documentation on methodology, data sources, and technical specifications, please refer to our [project wiki](https://github.com/yourusername/colombo-simulation/wiki).
+
+## Contact
+
+For questions or collaborations, please open an issue or contact the project maintainers directly.
+
+While not a completely accurate simulation, this model provides a valuable platform for visualizing and understanding urban development changes. It addresses the challenge of communicating complex urban planning concepts to the general public, potentially reducing misunderstandings and social disruption when new urban development plans are proposed.
+
+We present this tool in the hope that it will facilitate better communication and understanding of urban planning issues in Colombo.
