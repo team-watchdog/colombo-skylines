@@ -15,6 +15,9 @@
 
 In early 2024, we embarked on a project to help the general public better understand the city of Colombo and the impacts of various urban design interventions.  Our goal is to provide a visual and interactive tool for understanding urban design, infrastructure, and policy impacts in Colombo.
 
+![image](https://github.com/user-attachments/assets/b0008508-d0f8-4f9e-ae4e-e0d9275c3fd0)
+
+
 While professional expertise often resides in academic papers and reports, visualizing urban planning concepts can be challenging. Traditional software used for urban analysis, such as CUBE or OpenPaths, are complex and expensive. We chose to use Cities Skylines, a 2015 video game known for its complex and flexible urban simulation capabilities.
 
 ### Why Cities Skylines?
@@ -33,6 +36,9 @@ While professional expertise often resides in academic papers and reports, visua
 - Implemented public transport routes (rail and bus)
 - Customized visual assets to match Colombo's unique architectural style
 
+![image](https://github.com/user-attachments/assets/54ea5597-5655-40a5-9163-4cddce554fff)
+
+
 ### Limitations
 
 - Maximum virtual population: 1,048,576 citizens
@@ -42,6 +48,7 @@ While professional expertise often resides in academic papers and reports, visua
 - Maximum parked vehicles: 65,636
 - Maximum transport lines: 256
 - Vehicle to population ratio: approximately 1:10 (real Colombo: 1:5)
+![image](https://github.com/user-attachments/assets/a35daf52-8f46-45f5-a855-5cca4130d557)
 
 ## Getting Started
 
