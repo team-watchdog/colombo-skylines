@@ -1,7 +1,7 @@
-#Colombo: Skylines
+# Colombo: Skylines
 by Nimesha Periyapperuma and Yudhanjaya Wijeratne
 
-This repository contains Team Watchdog's simulation of the city of Colombo. This is an accurate topographical representation of Colombo, built with detailed land use and zoning based on official city development plans centererd around 2020; simulated population dynamics reflecting real-world demographics and human movement; public transport and population densites based on actual population mapping and route data; and curated visual assets to better match Colombo's unique architectural style. 
+This repository contains Team Watchdog's simulation of the city of Colombo. This is an accurate topographical representation of Colombo, built with detailed land use and zoning based on official city development plans centererd around 2020; over a million virtual citizens, simulating population dynamics that reflect large-scale, real-world demographics and human movement; public transport based on actual route data; and curated visual assets to better match Colombo's unique architectural style. 
 
 ![image](https://github.com/user-attachments/assets/ce65de82-8c8c-4251-b90d-90727196ba2d)
 
