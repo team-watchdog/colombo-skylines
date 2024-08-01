@@ -1,3 +1,13 @@
+#Colombo: Skylines
+by Nimesha Periyapperuma and Yudhanjaya Wijeratne
+
+This repository contains Team Watchdog's simulation of the city of Colombo. This is an accurate topographical representation of Colombo, built with detailed land use and zoning based on official city development plans centererd around 2020; simulated population dynamics reflecting real-world demographics and human movement; public transport and population densites based on actual population mapping and route data; and curated visual assets to better match Colombo's unique architectural style. 
+
+![image](https://github.com/user-attachments/assets/ce65de82-8c8c-4251-b90d-90727196ba2d)
+
+This project is built with the use of data from the Sri Lanka Urban Development Authority and Department of Census and Statistics, from the University of Moratuwa's Department of Transport and Policy Planning, from META's Dat for Good projects, from UN-Habitat reports, from the studies conducted for the ComTRANs report. Special thanks to Professor Amal Kumarage, Dr. Amila Jayasinghe, Dr T Sivakumar for data, research, and contributions. This project would not exist without the knowledge and hard work from immensely talented modding community around Cities: Skylines: Andreas Pardeike, boformer, kian.zarrin, FireController#1847, LinuxFan, Krzychu1245, leftbehind, Bloodypenguin, algernon, Chamëleon TBN, and others listed in full in the mods section.    
+
+
 # Table of Contents
 
 - [Introduction](#introduction)
@@ -31,11 +41,7 @@ While professional expertise often resides in academic papers and reports, visua
 
 ## Features
 
-- Accurate topographical representation of Colombo
-- Detailed land use and zoning based on official city development plans
-- Simulated population dynamics reflecting real-world demographics
-- Implemented public transport routes (rail and bus)
-- Curated visual assets to better match Colombo's unique architectural style
+
 
 ![image](https://github.com/user-attachments/assets/54ea5597-5655-40a5-9163-4cddce554fff)
 
