@@ -52,7 +52,7 @@ Potential applications include:
 3. Visualizing impact of new infrastructure like monorails or wider pavements
 4. Assessing effects of introducing more green spaces or parking areas
 
-While not a completely accurate simulation, this "toy universe model" provides a useful tool for visualizing and communicating urban development concepts. 
+While not a completely accurate simulation, this "toy universe model" provides a useful tool for visualizing and communicating urban development concepts. We present this tool in the hope that it will facilitate better communication and understanding of urban planning issues in Colombo. 
 
 ## Project Overview
 
@@ -170,7 +170,7 @@ For detailed documentation on methodology, data sources, technical specification
 
 ## License
 
-We present this tool in the hope that it will facilitate better communication and understanding of urban planning issues in Colombo. This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Cities Skylines, its logos, trademarks, and software are copyright © 2014 Paradox Interactive AB. All mods used here are similarly under their own lincenses. Our map (as a savefile, modlist and instructions) is presented under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
