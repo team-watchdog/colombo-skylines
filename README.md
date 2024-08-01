@@ -52,6 +52,9 @@ Potential applications include:
 3. Visualizing impact of new infrastructure like monorails or wider pavements
 4. Assessing effects of introducing more green spaces or parking areas
 
+![image](https://github.com/user-attachments/assets/f5f421ec-8813-4551-919d-4dee243d242a)
+
+
 While not a completely accurate simulation, this "toy universe model" provides a useful tool for visualizing and communicating urban development concepts. We present this tool in the hope that it will facilitate better communication and understanding of urban planning issues in Colombo. 
 
 ## Project Overview
