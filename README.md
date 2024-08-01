@@ -163,6 +163,9 @@ So we have a few notable issues:
 3. Perfect adherence to schedules in public transport, unlike real-world variation
 4. Transport speeds can be adjusted for each type of vehicle, but currently do not mirror real life
 5. Visual assets are taken from many different mods for countries other than Sri Lanka, and despite our best efforts, do not look completely Sri Lankan.
+6. The Colombo port looks functional, but is really not.
+
+![image](https://github.com/user-attachments/assets/50e728f1-9cb8-475f-9cdf-ba0043178e53)
 
 ## More Information
 
