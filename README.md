@@ -5,7 +5,7 @@ This repository contains Team Watchdog's simulation of the city of Colombo. This
 
 ![image](https://github.com/user-attachments/assets/ce65de82-8c8c-4251-b90d-90727196ba2d)
 
-This project is built with the use of data from the Sri Lanka Urban Development Authority, the Department of Census and Statistics, the University of Moratuwa's Department of Transport and Policy Planning, META's Dat for Good projects, UN-Habitat, the studies conducted for the ComTRANs report. Special thanks to Professor Amal Kumarage, Dr. Amila Jayasinghe, Dr T Sivakumar for data, research, and contributions. This project would not exist without the knowledge and hard work from immensely talented modding community around Cities: Skylines: Andreas Pardeike, boformer, kian.zarrin, FireController#1847, LinuxFan, Krzychu1245, leftbehind, Bloodypenguin, algernon, Chamëleon TBN, and others listed in full in the mods section.    
+This project is built with the use of data from the Sri Lanka Urban Development Authority, the Department of Census and Statistics, the University of Moratuwa's Department of Transport and Policy Planning, META's Dat for Good projects, UN-Habitat, the studies conducted for the ComTRANs report, from OpenStreeMap and the ESA's Sentinel-2 program. Special thanks to Professor Amal Kumarage, Dr. Amila Jayasinghe, Dr T Sivakumar for data, research, and contributions. This project would not exist without the knowledge and hard work from immensely talented modding community around Cities: Skylines: Andreas Pardeike, boformer, kian.zarrin, FireController#1847, LinuxFan, Krzychu1245, leftbehind, Bloodypenguin, algernon, Chamëleon TBN, and others listed in full in the mods section.    
 
 
 # Table of Contents
