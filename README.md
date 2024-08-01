@@ -156,11 +156,13 @@ The Skylines engine, even when modded to the hilt, has the following limits
 
 So we have a few notable issues: 
 
-1. Vehicle-to-population ratio discrepancy:
+1. The real CMC has a floating population of over 500,000 vehicles. We can only simulate a fraction of that.
+2. This shows up as a vehicle-to-population ratio discrepancy: 
    - Real Colombo: 1:5 ratio (206 vehicles per 1000 people)
    - Our model: Approximately 1:10 ratio
-2. Perfect adherence to schedules in public transport, unlike real-world variation
-3. Transport speeds can be adjusted for each type of vehicle, but currently do not mirror real life
+3. Perfect adherence to schedules in public transport, unlike real-world variation
+4. Transport speeds can be adjusted for each type of vehicle, but currently do not mirror real life
+5. Visual assets are taken from many different mods for countries other than Sri Lanka, and despite our best efforts, do not look completely Sri Lankan.
 
 ## More Information
 
