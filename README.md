@@ -79,23 +79,24 @@ The result was a highly accurate representation:
 - 4585.6 m at its widest (reality: 4611.2m)
 - Over 99% match in road layout, parks, and water bodies
 
+![image](https://github.com/user-attachments/assets/4f8b3f0a-e96b-48eb-8d79-8c9f538e8728)
+
+
 ### 2. Land Use and Zoning
 
 We extracted land-use data from the Colombo city development plan and mapped it to Cities Skylines' zoning categories:
 
-1. Initial zoning with low-density residential and commercial buildings
-2. Using high-resolution population data from Meta's Data for Good program to identify high-density areas
-3. Re-zoning high-density areas using Skylines' high-density commercial and residential categories
-4. Adding small lanes to accurately fill areas (mimicking real-world "Mawathas" or Avenues)
-5. Manually placing major schools, hospitals, and universities based on CMC maps
+1. Initial zoning with low-density residential and commercial buildings; government buildings were zones as commercial buildings, and religious sites were zones as parks, due to similar use patterns for virtual citizens
+2. We used high-resolution population data from Meta's Data for Good program to identify high-density areas, and rezoned using Skylines' high-density commercial and residential categories
+4. Added small lanes to accurately fill areas (mimicking real-world "Mawathas" or Avenues)
+5. Placed major schools, hospitals, and universities based on CMC maps
 
 ### 3. Administrative Divisions
 
-We partitioned the city into 15 districts based on Colombo Municipal Council maps, allowing for more granular statistical observation and population calibration.
+- We partitioned the city into 15 districts based on Colombo Municipal Council maps, allowing for more granular statistical observation and population calibration.
+![image](https://github.com/user-attachments/assets/7e945d3e-b757-4620-9f42-ee53120056b2)
 
 ### 4. Citizens and Populations
-
-We used agent-based simulation to populate our virtual Colombo:
 
 - Estimated 2020 population for the CMC area: 1,048,000 total people (555,300 night-time population, 492,700 commuters)
 - Our current version sits at  1,020,775 virtual citizens, with the CMC area modelled and population centers along extended corridors to simulate commuter influx 
@@ -111,10 +112,16 @@ Public Transport:
   1. Main Line: Fort - Maradana - Ragama
   2. Coastal Line: Fort - Ratmalana
   3. Kelani Valley Line: Maradana - Padukka
-- Implemented three key bus routes:
-  1. Route 138: Maharagama - Pettah
-  2. Route 174: Kottawa - Borella
-  3. Route 100/101: Dehiwala - Pettah
+
+- Implemented six key bus routes:
+  1. Route 100: Dehiwala - Pettah
+  2. Route 103: Pettah - Park Road via Narahenpita
+  3. Route 104: Ja-Ela - Bambalapitiya
+  4. Route 120: Piliyandala - Pettah 
+  5. Route 138: Maharagama - Pettah
+  6. Route 174: Kottawa - Borella
+    
+![image](https://github.com/user-attachments/assets/4eba8cee-ef5a-43cb-b0ed-b9c288fb26ed)
 
 Private Transport:
 - Set vehicle spawn criteria based on transport modality figuresd from the RDA's National Master Plan
@@ -124,6 +131,9 @@ Private Transport:
   - Vehicles may do U-turns at junctions
   - 10% of drivers are reckless
   - Vehicles may park on the sides of streets
+  - Three wheelers and scooters
+  
+![image](https://github.com/user-attachments/assets/43fb27ed-8a11-4c0a-89dc-7f3f8b312419)
 
 ### 6. Visuals
 
