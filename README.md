@@ -15,7 +15,7 @@ This project is built with the use of data from
 - OpenStreetMap 
 - ESA's Sentinel-2 program, from which we've gotten a lot of satellite imagery: see [https://github.com/team-watchdog/satellite2024](https://github.com/team-watchdog/satellite2024) 
 
-Special thanks to Professor Amal Kumarage, Dr. Amila Jayasinghe, Dr T Sivakumar for data, research, and contributions. This project would not exist without the knowledge and hard work from immensely talented modding community around Cities: Skylines: Andreas Pardeike, boformer, kian.zarrin, FireController#1847, LinuxFan, Krzychu1245, leftbehind, Bloodypenguin, algernon, Chamëleon TBN, and others listed in full in the mods section.    
+Special thanks to Professor Amal Kumarage and Dr. Amila Jayasinghe for data, research, and contributions, especially around the commuter flow across the main arteries that connect the CMC with the rest of the country. This project would not exist without the knowledge and hard work from immensely talented modding community around Cities: Skylines: Andreas Pardeike, boformer, kian.zarrin, FireController#1847, LinuxFan, Krzychu1245, leftbehind, Bloodypenguin, algernon, Chamëleon TBN, and others listed in full in the mods section.    
 
 
 # Table of Contents
