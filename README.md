@@ -20,6 +20,8 @@ This project is built with the use of publicly available data from
 - ESA's Sentinel-2 program, from which we've gotten a lot of satellite imagery: see [https://github.com/team-watchdog/satellite2024](https://github.com/team-watchdog/satellite2024)
 - Google Maps and Routemaster.lk for bus and train routes
 
+This work was created in partnership with the Strengthening Social Cohesion and Peace in Sri Lanka programme (SCOPE) co-funded by the European Union and German Federal Foreign Office. SCOPE is implemented by The Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH in partnership with the Ministry of Justice, Prisons Affairs and Constitutional Reforms (MoJ).
+
 Special thanks to Professor Amal Kumarage and Dr. Amila Jayasinghe for data, research, and contributions, especially around the commuter flow across the main arteries that connect the CMC with the rest of the country. This project would not exist without the knowledge and hard work from immensely talented modding community around Cities: Skylines: Andreas Pardeike, boformer, kian.zarrin, FireController#1847, LinuxFan, Krzychu1245, leftbehind, Bloodypenguin, algernon, Chamëleon TBN, Simon Ryr and others listed in full in the mods section.    
 
 ## Table of Contents
