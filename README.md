@@ -5,13 +5,14 @@ This repository contains Team Watchdog's simulation of the city of Colombo. This
 
 ![image](https://github.com/user-attachments/assets/ce65de82-8c8c-4251-b90d-90727196ba2d)
 
-This project is built with the use of data from
+This project is built with the use of publicly available data from
+- Colombo Municipal Council 
 - Sri Lanka Urban Development Authority
 - Sri Lanka Department of Census and Statistics 
 - University of Moratuwa's Department of Transport and Policy Planning 
 - META's Data for Good projects, especially their population mapping work with the Center for International Earth Science Information Network (CIESIN) at the Columbia Climate School
 - UN-Habitat 
-- The brilliant minds behind the ComTRANS reports and its associated studies and surveys 
+- The ComTRANS reports and its associated studies and surveys 
 - OpenStreetMap 
 - ESA's Sentinel-2 program, from which we've gotten a lot of satellite imagery: see [https://github.com/team-watchdog/satellite2024](https://github.com/team-watchdog/satellite2024) 
 
