@@ -5,6 +5,8 @@ This repository contains Team Watchdog's simulation of the city of Colombo. This
 
 ![image](https://github.com/user-attachments/assets/ce65de82-8c8c-4251-b90d-90727196ba2d)
 
+We've also set up a [wiki to explain how we did it and how you can get this running on your own machine](https://github.com/team-watchdog/colombo-skylines/wiki).
+
 This project is built with the use of publicly available data from
 - Colombo Municipal Council
 - Sri Lanka Road Development Authority
