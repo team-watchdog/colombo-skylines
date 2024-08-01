@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TreeControl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>default</Language>
+  <WhatsNewVersion>0.0</WhatsNewVersion>
+  <DetailedLogging>false</DetailedLogging>
+  <ShowButtons>true</ShowButtons>
+  <TransparentButtons>false</TransparentButtons>
+  <EnableAnarchyAfterLoad>false</EnableAnarchyAfterLoad>
+  <MoveItAnarchy>false</MoveItAnarchy>
+  <StatusPanelX>-1</StatusPanelX>
+  <StatusPanelY>0</StatusPanelY>
+  <TreeLimit>262144</TreeLimit>
+  <RandomRotation>true</RandomRotation>
+  <TreeSwayFactor>0</TreeSwayFactor>
+  <DisableDistantSway>false</DisableDistantSway>
+  <LODResolution>Low</LODResolution>
+  <NetworkOverlap>None</NetworkOverlap>
+  <BuildingOverlap>None</BuildingOverlap>
+  <UpdateOnTerrain>false</UpdateOnTerrain>
+  <KeepAboveGround>true</KeepAboveGround>
+  <LockForestry>false</LockForestry>
+  <IgnoreTreeAnarchyData>true</IgnoreTreeAnarchyData>
+  <AnarchyKey KeyCode="97" Control="false" Shift="false" Alt="true" />
+  <SnappingKey KeyCode="115" Control="false" Shift="false" Alt="true" />
+  <LockForestryKey KeyCode="102" Control="false" Shift="false" Alt="true" />
+  <ScaleUpKey KeyCode="46" Control="false" Shift="false" Alt="false" />
+  <ScaleDownKey KeyCode="44" Control="false" Shift="false" Alt="false" />
+  <ElevationUpKey KeyCode="280" Control="false" Shift="false" Alt="false" />
+  <ElevationDownKey KeyCode="281" Control="false" Shift="false" Alt="false" />
+  <KeyRepeatDelay>0.35</KeyRepeatDelay>
+</TreeControl>

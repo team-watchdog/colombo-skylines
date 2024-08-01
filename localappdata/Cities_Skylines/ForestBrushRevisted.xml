@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModVersion>1.4.10</ModVersion>
+  <PreferredLanguage>System Default</PreferredLanguage>
+  <PanelPosX>200</PanelPosX>
+  <PanelPosY>100</PanelPosY>
+  <BrushShapesOpen>true</BrushShapesOpen>
+  <BrushEditOpen>true</BrushEditOpen>
+  <BrushOptionsOpen>true</BrushOptionsOpen>
+  <ShowTreeMeshData>true</ShowTreeMeshData>
+  <Sorting>Name</Sorting>
+  <SortingOrder>Ascending</SortingOrder>
+  <FilterStyle>AND</FilterStyle>
+  <SelectedBrush>
+    <Name>Golf Trees</Name>
+    <Trees>
+      <Tree>
+        <Name>931378862.Generic Tree tiny_Data</Name>
+        <Probability>100</Probability>
+      </Tree>
+      <Tree>
+        <Name>1225368249.Leafy_Reg_Data</Name>
+        <Probability>100</Probability>
+      </Tree>
+      <Tree>
+        <Name>1225368249.Leafy_full_Data</Name>
+        <Probability>100</Probability>
+      </Tree>
+      <Tree>
+        <Name>1225368249.Leafy_split trunk _Data</Name>
+        <Probability>100</Probability>
+      </Tree>
+    </Trees>
+    <Options>
+      <Size>28</Size>
+      <Strength>1</Strength>
+      <Density>4.06499958</Density>
+      <SlopeLimit>56</SlopeLimit>
+      <AutoDensity>false</AutoDensity>
+      <BitmapID>01</BitmapID>
+    </Options>
+  </SelectedBrush>
+  <KeepTreesInNewBrush>false</KeepTreesInNewBrush>
+  <IgnoreVanillaTrees>false</IgnoreVanillaTrees>
+  <ShowInfoTooltip>true</ShowInfoTooltip>
+  <PlayEffect>true</PlayEffect>
+  <ChargeMoney>true</ChargeMoney>
+  <Brushes>
+    <Brush>
+      <Name>New Brush</Name>
+      <Trees>
+        <Tree>
+          <Name>Large Shrub</Name>
+          <Probability>100</Probability>
+        </Tree>
+        <Tree>
+          <Name>Tree2</Name>
+          <Probability>100</Probability>
+        </Tree>
+        <Tree>
+          <Name>Tree3variant</Name>
+          <Probability>100</Probability>
+        </Tree>
+        <Tree>
+          <Name>Green Tree 01</Name>
+          <Probability>100</Probability>
+        </Tree>
+      </Trees>
+      <Options>
+        <Size>25</Size>
+        <Strength>0.87</Strength>
+        <Density>8.094999</Density>
+        <SlopeLimit>40</SlopeLimit>
+        <AutoDensity>true</AutoDensity>
+        <BitmapID>01</BitmapID>
+      </Options>
+    </Brush>
+    <Brush>
+      <Name>Golf Trees</Name>
+      <Trees>
+        <Tree>
+          <Name>931378862.Generic Tree tiny_Data</Name>
+          <Probability>100</Probability>
+        </Tree>
+        <Tree>
+          <Name>1225368249.Leafy_Reg_Data</Name>
+          <Probability>100</Probability>
+        </Tree>
+        <Tree>
+          <Name>1225368249.Leafy_full_Data</Name>
+          <Probability>100</Probability>
+        </Tree>
+        <Tree>
+          <Name>1225368249.Leafy_split trunk _Data</Name>
+          <Probability>100</Probability>
+        </Tree>
+      </Trees>
+      <Options>
+        <Size>28</Size>
+        <Strength>1</Strength>
+        <Density>4.06499958</Density>
+        <SlopeLimit>56</SlopeLimit>
+        <AutoDensity>false</AutoDensity>
+        <BitmapID>01</BitmapID>
+      </Options>
+    </Brush>
+    <Brush>
+      <Name>Ground external</Name>
+      <Trees>
+        <Tree>
+          <Name>1916688109.Azalea Blue_Data</Name>
+          <Probability>100</Probability>
+        </Tree>
+      </Trees>
+      <Options>
+        <Size>1</Size>
+        <Strength>0.199999988</Strength>
+        <Density>8.094999</Density>
+        <SlopeLimit>40</SlopeLimit>
+        <AutoDensity>true</AutoDensity>
+        <BitmapID>01</BitmapID>
+      </Options>
+    </Brush>
+  </Brushes>
+  <ShowBrushTrees>false</ShowBrushTrees>
+  <MainToolbarButton>true</MainToolbarButton>
+  <ToggleTool>
+    <Name>toggleTool</Name>
+    <Key>B</Key>
+    <Control>true</Control>
+    <Shift>false</Shift>
+    <Alt>true</Alt>
+  </ToggleTool>
+</ModSettings>

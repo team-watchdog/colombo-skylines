@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MoreCitizenUnits xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>default</Language>
+  <WhatsNewVersion>0.0</WhatsNewVersion>
+  <DetailedLogging>false</DetailedLogging>
+  <DoubleUnits>true</DoubleUnits>
+  <CheckUnits>false</CheckUnits>
+  <ResetUnits>false</ResetUnits>
+</MoreCitizenUnits>

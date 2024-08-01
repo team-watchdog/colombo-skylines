@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModConfig>
+  <ModVersion>1.1.4.0</ModVersion>
+  <LocaleType>Default</LocaleType>
+  <LocaleID />
+  <ToolButtonPresent>InGame</ToolButtonPresent>
+  <ToolButtonPositionX>2472</ToolButtonPositionX>
+  <ToolButtonPositionY>903</ToolButtonPositionY>
+  <EnabledAchievements>true</EnabledAchievements>
+  <EnabledSkipIntro>true</EnabledSkipIntro>
+  <OptionPanelCategoriesHorizontalOffset>240</OptionPanelCategoriesHorizontalOffset>
+  <OptionPanelCategoriesUpdated>true</OptionPanelCategoriesUpdated>
+  <UnlockInfoViews>false</UnlockInfoViews>
+  <EnabledUnlockAll>true</EnabledUnlockAll>
+  <CustomUnlock>false</CustomUnlock>
+  <UnlockBasicRoads>false</UnlockBasicRoads>
+  <UnlockAllRoads>false</UnlockAllRoads>
+  <UnlockTrainTrack>false</UnlockTrainTrack>
+  <UnlockMetroTrack>false</UnlockMetroTrack>
+  <MilestoneLevel>0</MilestoneLevel>
+  <UnlockPolicies>false</UnlockPolicies>
+  <UnlockPublicTransport>false</UnlockPublicTransport>
+  <UnlockUniqueBuildings>false</UnlockUniqueBuildings>
+  <UnlockLandscaping>false</UnlockLandscaping>
+  <RemoveNoisePollution>true</RemoveNoisePollution>
+  <RemoveGroundPollution>true</RemoveGroundPollution>
+  <RemoveWaterPollution>true</RemoveWaterPollution>
+  <RemoveDeath>true</RemoveDeath>
+  <RemoveGarbage>true</RemoveGarbage>
+  <RemoveCrime>true</RemoveCrime>
+  <MaximizeAttractiveness>true</MaximizeAttractiveness>
+  <MaximizeEntertainment>true</MaximizeEntertainment>
+  <MaximizeLandValue>true</MaximizeLandValue>
+  <MaximizeEducationCoverage>true</MaximizeEducationCoverage>
+  <OilDepletionRate>0</OilDepletionRate>
+  <OreDepletionRate>0</OreDepletionRate>
+  <CashAnarchy>false</CashAnarchy>
+  <UnlimitedMoney>false</UnlimitedMoney>
+  <EnableStartMoney>false</EnableStartMoney>
+  <RemoveNotEnoughMoney>true</RemoveNotEnoughMoney>
+  <CityBankruptcyWarningThreshold>-10000</CityBankruptcyWarningThreshold>
+  <StartMoneyAmount>715000</StartMoneyAmount>
+  <DefaultMinAmount>50000</DefaultMinAmount>
+  <DefaultGetCash>5000000</DefaultGetCash>
+  <ChargeInterest>false</ChargeInterest>
+  <AnnualInterestRate>0.03</AnnualInterestRate>
+  <NoPoliciesCosts>false</NoPoliciesCosts>
+  <BuildingRefund>true</BuildingRefund>
+  <RemoveBuildingRefundTimeLimitation>true</RemoveBuildingRefundTimeLimitation>
+  <BuildingRefundMultipleFactor>1</BuildingRefundMultipleFactor>
+  <BuildingRelocationCostFactor>0</BuildingRelocationCostFactor>
+  <SegmentRefund>true</SegmentRefund>
+  <RemoveSegmentRefundTimeLimitation>true</RemoveSegmentRefundTimeLimitation>
+  <SegmentRefundMultipleFactor>1</SegmentRefundMultipleFactor>
+  <ResidentialMultiplierFactor>1</ResidentialMultiplierFactor>
+  <IndustrialMultiplierFactor>1</IndustrialMultiplierFactor>
+  <CommercialMultiplierFactor>1</CommercialMultiplierFactor>
+  <OfficeMultiplierFactor>1</OfficeMultiplierFactor>
+  <BuildingSpreadFireProbability>0</BuildingSpreadFireProbability>
+  <TreeSpreadFireProbability>0</TreeSpreadFireProbability>
+  <UnlimitedMonument>true</UnlimitedMonument>
+  <UnlimitedMainCampusBuilding>true</UnlimitedMainCampusBuilding>
+  <UnlimitedUniqueFactory>true</UnlimitedUniqueFactory>
+  <UnlimitedStockExchange>true</UnlimitedStockExchange>
+  <UnlimitedUniqueFaculty>true</UnlimitedUniqueFaculty>
+  <UnlimitedWeatherRadar>true</UnlimitedWeatherRadar>
+  <UnlimitedSpaceRadar>true</UnlimitedSpaceRadar>
+  <UnlimitedFestivalArea>true</UnlimitedFestivalArea>
+  <UnlimitedLibraryAI>true</UnlimitedLibraryAI>
+  <UnlimitedSpaceElevator>true</UnlimitedSpaceElevator>
+  <UnlimitedParkAI>true</UnlimitedParkAI>
+  <MaximizeFireCoverage>true</MaximizeFireCoverage>
+  <RemovePlayerBuildingFire>true</RemovePlayerBuildingFire>
+  <RemoveResidentialBuildingFire>true</RemoveResidentialBuildingFire>
+  <RemoveIndustrialBuildingFire>true</RemoveIndustrialBuildingFire>
+  <RemoveCommercialBuildingFire>true</RemoveCommercialBuildingFire>
+  <RemoveOfficeBuildingFire>true</RemoveOfficeBuildingFire>
+  <RemoveParkBuildingFire>true</RemoveParkBuildingFire>
+  <RemoveMuseumFire>true</RemoveMuseumFire>
+  <RemoveCampusBuildingFire>true</RemoveCampusBuildingFire>
+  <RemoveAirportBuildingFire>true</RemoveAirportBuildingFire>
+  <AddCash Key="M" Control="true" Shift="true" Alt="false" />
+  <DecreaseMoney Key="N" Control="true" Shift="true" Alt="false" />
+  <ControlPanelHotkey Key="G" Control="true" Shift="true" Alt="false" />
+</ModConfig>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DemandControllerConfiguration>
+  <ResidentialDemand>100</ResidentialDemand>
+  <CommercialDemand>100</CommercialDemand>
+  <WorkplaceDemand>100</WorkplaceDemand>
+  <Enabled>true</Enabled>
+  <ResidentialEnabled>true</ResidentialEnabled>
+  <CommercialEnabled>true</CommercialEnabled>
+  <WorkplaceEnabled>true</WorkplaceEnabled>
+  <ButtonEnabled>true</ButtonEnabled>
+  <ShortcutEnabled>true</ShortcutEnabled>
+  <ButtonPosition>
+    <x>923</x>
+    <y>1045</y>
+    <z>0</z>
+  </ButtonPosition>
+  <PanelPosition>
+    <x>373</x>
+    <y>685</y>
+    <z>0</z>
+  </PanelPosition>
+</DemandControllerConfiguration>

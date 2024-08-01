@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LodFactorMultiplierProps>200</LodFactorMultiplierProps>
+  <DistanceOffsetProps>100</DistanceOffsetProps>
+  <LodDistanceMultiplierProps>0.25</LodDistanceMultiplierProps>
+  <FallbackRenderDistanceProps>1000</FallbackRenderDistanceProps>
+  <LodFactorMultiplierTrees>200</LodFactorMultiplierTrees>
+  <DistanceOffsetTrees>100</DistanceOffsetTrees>
+  <LodDistanceMultiplierTrees>0.25</LodDistanceMultiplierTrees>
+  <FallbackLodFactorMultiplierTrees>300</FallbackLodFactorMultiplierTrees>
+</Options>

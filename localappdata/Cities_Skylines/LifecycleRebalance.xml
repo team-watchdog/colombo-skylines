@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>default</Language>
+  <WhatsNewVersion>0.0</WhatsNewVersion>
+  <DetailedLogging>false</DetailedLogging>
+  <UseVanilla>false</UseVanilla>
+  <UseLegacy>false</UseLegacy>
+  <CustomRetirement>false</CustomRetirement>
+  <RetirementAge>65</RetirementAge>
+  <UseTransportModes>false</UseTransportModes>
+  <RandomImmigrantEd>false</RandomImmigrantEd>
+  <ImmiEduBoost>false</ImmiEduBoost>
+  <ImmiEduDrag>false</ImmiEduDrag>
+  <CustomChildhood>true</CustomChildhood>
+  <SchoolStartYear>6</SchoolStartYear>
+  <TeenStartYear>11</TeenStartYear>
+  <YoungStartYear>20</YoungStartYear>
+  <LogDeaths>false</LogDeaths>
+  <LogTransport>false</LogTransport>
+  <LogSickness>false</LogSickness>
+  <LogImmigration>false</LogImmigration>
+</SettingsFile>

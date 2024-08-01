@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ModVersion>1.9.2.0</ModVersion>
+  <LocaleType>Default</LocaleType>
+  <LocaleID />
+  <ToolButtonPresent>InGame</ToolButtonPresent>
+  <ToolButtonPositionX>2468</ToolButtonPositionX>
+  <ToolButtonPositionY>856</ToolButtonPositionY>
+  <ShowImage>false</ShowImage>
+  <ShowReloadResults>true</ShowReloadResults>
+  <ShowControlPanelHotkey Key="I" Control="true" Shift="false" Alt="false" />
+  <ShowImageHotkey Key="Return" Control="false" Shift="true" Alt="false" />
+  <LoopImage Key="None" Control="false" Shift="false" Alt="false" />
+  <ImageConfig>
+    <ImageInfo Name="colombo divisions" Size="Overspread" SideLength="8640" PositionX="-2310" PositionY="-400" Rotation="0" Opacity="21" />
+    <ImageInfo Name="composite 1" Size="Overspread" SideLength="8640" PositionX="-2300" PositionY="-400" Rotation="0" Opacity="11" />
+    <ImageInfo Name="composite 2" Size="Overspread" SideLength="8640" PositionX="-2300" PositionY="-400" Rotation="0" Opacity="30" />
+    <ImageInfo Name="hospital overlay" Size="Overspread" SideLength="8640" PositionX="-2300" PositionY="-400" Rotation="0" Opacity="30" />
+    <ImageInfo Name="map (1)" Size="Overspread" SideLength="8640" PositionX="-2300" PositionY="-400" Rotation="0" Opacity="20" />
+    <ImageInfo Name="overlayed_population" Size="Overspread" SideLength="8640" PositionX="-2300" PositionY="-400" Rotation="0" Opacity="31" />
+    <ImageInfo Name="population 2" Size="Custom" SideLength="18190" PositionX="-710" PositionY="4460" Rotation="0" Opacity="21" />
+    <ImageInfo Name="school overlay" Size="Overspread" SideLength="8640" PositionX="-2280" PositionY="-400" Rotation="0" Opacity="21" />
+    <ImageInfo Name="transport_windows" Size="Custom" SideLength="8510" PositionX="-2300" PositionY="-400" Rotation="0" Opacity="30" />
+  </ImageConfig>
+</Config>

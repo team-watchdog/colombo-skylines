@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pop_packs>
+    <pop_pack name="Colombo Low Residential" service="Residential">
+      <levels>
+        <level level="0" empty="0" emptypercent="10" areaper="42.5" multilevel="false" />
+        <level level="1" empty="0" emptypercent="12" areaper="45" multilevel="false" />
+        <level level="2" empty="0" emptypercent="16" areaper="50" multilevel="false" />
+        <level level="3" empty="0" emptypercent="16" areaper="52.5" multilevel="false" />
+        <level level="4" empty="0" emptypercent="16" areaper="55" multilevel="false" />
+      </levels>
+    </pop_pack>
+    <pop_pack name="Colombo High Residential" service="Residential">
+      <levels>
+        <level level="0" empty="0" emptypercent="5" areaper="-100" multilevel="false" />
+        <level level="1" empty="0" emptypercent="5" areaper="-120" multilevel="false" />
+        <level level="2" empty="0" emptypercent="5" areaper="-160" multilevel="false" />
+        <level level="3" empty="0" emptypercent="5" areaper="-200" multilevel="false" />
+        <level level="4" empty="0" emptypercent="5" areaper="-240" multilevel="false" />
+      </levels>
+    </pop_pack>
+  </pop_packs>
+  <floor_packs />
+  <consumption>
+    <consumption service="Residential" subservice="ResidentialLow">
+      <levels>
+        <level level="Level1" power="8" water="20" sewage="15" garbage="11" pollution="0" noise="1" mail="35" income="130" />
+        <level level="Level2" power="8" water="21" sewage="16" garbage="10" pollution="0" noise="1" mail="30" income="140" />
+        <level level="Level3" power="9" water="22" sewage="17" garbage="10" pollution="0" noise="1" mail="25" income="150" />
+        <level level="Level4" power="9" water="24" sewage="19" garbage="9" pollution="0" noise="1" mail="20" income="160" />
+        <level level="Level5" power="10" water="26" sewage="21" garbage="9" pollution="0" noise="1" mail="15" income="170" />
+      </levels>
+    </consumption>
+    <consumption service="Residential" subservice="ResidentialHigh">
+      <levels>
+        <level level="Level1" power="7" water="14" sewage="11" garbage="9" pollution="0" noise="5" mail="25" income="90" />
+        <level level="Level2" power="7" water="15" sewage="12" garbage="8" pollution="0" noise="5" mail="20" income="90" />
+        <level level="Level3" power="8" water="16" sewage="13" garbage="8" pollution="0" noise="5" mail="16" income="90" />
+        <level level="Level4" power="8" water="17" sewage="14" garbage="7" pollution="0" noise="5" mail="12" income="90" />
+        <level level="Level5" power="9" water="19" sewage="16" garbage="7" pollution="0" noise="5" mail="8" income="90" />
+      </levels>
+    </consumption>
+    <consumption service="Residential" subservice="ResidentialWallToWall">
+      <levels>
+        <level level="Level1" power="7" water="14" sewage="11" garbage="9" pollution="0" noise="5" mail="25" income="90" />
+        <level level="Level2" power="7" water="15" sewage="12" garbage="8" pollution="0" noise="5" mail="20" income="90" />
+        <level level="Level3" power="8" water="16" sewage="13" garbage="8" pollution="0" noise="5" mail="16" income="90" />
+        <level level="Level4" power="8" water="17" sewage="14" garbage="7" pollution="0" noise="5" mail="12" income="90" />
+        <level level="Level5" power="9" water="19" sewage="16" garbage="7" pollution="0" noise="5" mail="8" income="90" />
+      </levels>
+    </consumption>
+    <consumption service="Residential" subservice="ResidentialLowEco">
+      <levels>
+        <level level="Level1" power="6" water="19" sewage="15" garbage="8" pollution="0" noise="1" mail="25" income="91" />
+        <level level="Level2" power="6" water="21" sewage="17" garbage="8" pollution="0" noise="1" mail="22" income="98" />
+        <level level="Level3" power="7" water="23" sewage="19" garbage="7" pollution="0" noise="1" mail="18" income="105" />
+        <level level="Level4" power="8" water="25" sewage="21" garbage="6" pollution="0" noise="1" mail="14" income="112" />
+        <level level="Level5" power="8" water="28" sewage="24" garbage="6" pollution="0" noise="1" mail="10" income="119" />
+      </levels>
+    </consumption>
+    <consumption service="Residential" subservice="ResidentialHighEco">
+      <levels>
+        <level level="Level1" power="6" water="14" sewage="12" garbage="7" pollution="0" noise="3" mail="20" income="64" />
+        <level level="Level2" power="6" water="16" sewage="14" garbage="6" pollution="0" noise="3" mail="15" income="69" />
+        <level level="Level3" power="6" water="18" sewage="16" garbage="6" pollution="0" noise="3" mail="12" income="73" />
+        <level level="Level4" power="7" water="20" sewage="18" garbage="5" pollution="0" noise="3" mail="9" income="78" />
+        <level level="Level5" power="8" water="22" sewage="20" garbage="5" pollution="0" noise="3" mail="6" income="83" />
+      </levels>
+    </consumption>
+    <consumption service="Commercial" subservice="CommercialLow">
+      <levels>
+        <level level="Level1" power="9" water="30" sewage="30" garbage="9" pollution="0" noise="100" mail="30" income="700" />
+        <level level="Level2" power="10" water="35" sewage="35" garbage="8" pollution="0" noise="90" mail="20" income="750" />
+        <level level="Level3" power="11" water="40" sewage="40" garbage="7" pollution="0" noise="75" mail="10" income="800" />
+      </levels>
+    </consumption>
+    <consumption service="Commercial" subservice="CommercialHigh">
+      <levels>
+        <level level="Level1" power="10" water="28" sewage="28" garbage="9" pollution="0" noise="80" mail="20" income="750" />
+        <level level="Level2" power="11" water="32" sewage="32" garbage="8" pollution="0" noise="70" mail="14" income="800" />
+        <level level="Level3" power="13" water="36" sewage="36" garbage="7" pollution="0" noise="60" mail="8" income="850" />
+      </levels>
+    </consumption>
+    <consumption service="Commercial" subservice="CommercialWallToWall">
+      <levels>
+        <level level="Level1" power="10" water="28" sewage="28" garbage="9" pollution="0" noise="80" mail="20" income="750" />
+        <level level="Level2" power="11" water="32" sewage="32" garbage="8" pollution="0" noise="70" mail="14" income="800" />
+        <level level="Level3" power="13" water="36" sewage="36" garbage="7" pollution="0" noise="60" mail="8" income="850" />
+      </levels>
+    </consumption>
+    <consumption service="Commercial" subservice="CommercialEco">
+      <levels>
+        <level level="Level1" power="11" water="30" sewage="30" garbage="7" pollution="0" noise="2" mail="20" income="800" />
+      </levels>
+    </consumption>
+    <consumption service="Commercial" subservice="CommercialLeisure">
+      <levels>
+        <level level="Level1" power="30" water="36" sewage="40" garbage="25" pollution="0" noise="300" mail="30" income="750" />
+      </levels>
+    </consumption>
+    <consumption service="Commercial" subservice="CommercialTourist">
+      <levels>
+        <level level="Level1" power="30" water="50" sewage="55" garbage="30" pollution="0" noise="150" mail="50" income="900" />
+      </levels>
+    </consumption>
+    <consumption service="Office" subservice="OfficeGeneric">
+      <levels>
+        <level level="Level1" power="12" water="4" sewage="4" garbage="3" pollution="0" noise="1" mail="25" income="1000" />
+        <level level="Level2" power="13" water="5" sewage="5" garbage="3" pollution="0" noise="1" mail="37" income="1125" />
+        <level level="Level3" power="14" water="5" sewage="5" garbage="2" pollution="0" noise="1" mail="50" income="1250" />
+      </levels>
+    </consumption>
+    <consumption service="Office" subservice="OfficeFinancial">
+      <levels>
+        <level level="Level1" power="12" water="4" sewage="4" garbage="3" pollution="0" noise="1" mail="25" income="1000" />
+        <level level="Level2" power="13" water="5" sewage="5" garbage="3" pollution="0" noise="1" mail="37" income="1125" />
+        <level level="Level3" power="14" water="5" sewage="5" garbage="2" pollution="0" noise="1" mail="50" income="1250" />
+      </levels>
+    </consumption>
+    <consumption service="Office" subservice="OfficeWallToWall">
+      <levels>
+        <level level="Level1" power="12" water="4" sewage="4" garbage="3" pollution="0" noise="1" mail="25" income="1000" />
+        <level level="Level2" power="13" water="5" sewage="5" garbage="3" pollution="0" noise="1" mail="37" income="1125" />
+        <level level="Level3" power="14" water="5" sewage="5" garbage="2" pollution="0" noise="1" mail="50" income="1250" />
+      </levels>
+    </consumption>
+    <consumption service="Office" subservice="OfficeHightech">
+      <levels>
+        <level level="Level1" power="22" water="5" sewage="5" garbage="3" pollution="0" noise="1" mail="10" income="4000" />
+      </levels>
+    </consumption>
+    <consumption service="Industrial" subservice="IndustrialGeneric">
+      <levels>
+        <level level="Level1" power="28" water="90" sewage="100" garbage="20" pollution="300" noise="300" mail="10" income="220" />
+        <level level="Level2" power="30" water="100" sewage="110" garbage="18" pollution="150" noise="150" mail="37" income="235" />
+        <level level="Level3" power="32" water="110" sewage="120" garbage="16" pollution="25" noise="50" mail="50" income="250" />
+      </levels>
+    </consumption>
+    <consumption service="Industrial" subservice="IndustrialFarming">
+      <levels>
+        <level level="Level1" power="10" water="80" sewage="100" garbage="20" pollution="0" noise="175" mail="10" income="180" />
+        <level level="Level2" power="40" water="100" sewage="150" garbage="25" pollution="0" noise="180" mail="25" income="220" />
+      </levels>
+    </consumption>
+    <consumption service="Industrial" subservice="IndustrialForestry">
+      <levels>
+        <level level="Level1" power="20" water="25" sewage="35" garbage="20" pollution="0" noise="210" mail="10" income="180" />
+        <level level="Level2" power="60" water="70" sewage="80" garbage="30" pollution="0" noise="200" mail="25" income="240" />
+      </levels>
+    </consumption>
+    <consumption service="Industrial" subservice="IndustrialOil">
+      <levels>
+        <level level="Level1" power="90" water="180" sewage="220" garbage="40" pollution="450" noise="375" mail="10" income="300" />
+        <level level="Level2" power="180" water="200" sewage="240" garbage="50" pollution="300" noise="400" mail="25" income="400" />
+      </levels>
+    </consumption>
+    <consumption service="Industrial" subservice="IndustrialOre">
+      <levels>
+        <level level="Level1" power="50" water="100" sewage="100" garbage="50" pollution="400" noise="500" mail="10" income="250" />
+        <level level="Level2" power="120" water="160" sewage="170" garbage="40" pollution="300" noise="475" mail="25" income="320" />
+      </levels>
+    </consumption>
+  </consumption>
+  <default-pop>
+    <default service="Commercial" subservice="CommercialLow" pack="comUK" />
+    <default service="Commercial" subservice="CommercialHigh" pack="comUK" />
+    <default service="Commercial" subservice="CommercialWallToWall" pack="retailware" />
+    <default service="Residential" subservice="ResidentialLow" pack="Colombo Low Residential" />
+    <default service="Residential" subservice="ResidentialHigh" pack="Colombo High Residential" />
+  </default-pop>
+  <default-floor>
+    <default service="Commercial" subservice="CommercialLow" pack="house" />
+    <default service="Commercial" subservice="CommercialWallToWall" pack="warehouse" />
+    <default service="Residential" subservice="ResidentialLow" pack="generic" />
+  </default-floor>
+  <buildings>
+    <building prefab="1692831837.Block Services - Elementary_Data" pop="vanilla" />
+    <building prefab="3218277171.Praia 50 80 condo2_Data" pop="resEUold" floor="generic" />
+  </buildings>
+  <override_population>
+    <population prefab="H5 3x2 Highrise06" population="100" />
+    <population prefab="2130167714.Edinburgh Town House_Data" population="50" />
+  </override_population>
+  <override_floors />
+  <visitors>
+    <visitors subservice="CommercialLow" mode="0" multiplier="100" />
+    <visitors subservice="CommercialHigh" mode="0" multiplier="100" />
+    <visitors subservice="CommercialWallToWall" mode="0" multiplier="100" />
+    <visitors subservice="CommercialLeisure" mode="0" multiplier="100" />
+    <visitors subservice="CommercialTourist" mode="0" multiplier="100" />
+    <visitors subservice="CommercialEco" mode="0" multiplier="100" />
+  </visitors>
+  <commercial_sales>
+    <percentage subservice="CommercialLow" value="60" />
+    <percentage subservice="CommercialHigh" value="60" />
+    <percentage subservice="CommercialWallToWall" value="60" />
+    <percentage subservice="CommercialEco" value="60" />
+    <percentage subservice="CommercialLeisure" value="60" />
+    <percentage subservice="CommercialTourist" value="60" />
+  </commercial_sales>
+  <office_production>
+    <percentage subservice="OfficeGeneric" value="100" />
+    <percentage subservice="OfficeWallToWall" value="100" />
+    <percentage subservice="OfficeFinancial" value="100" />
+    <percentage subservice="OfficeHightech" value="100" />
+  </office_production>
+  <industrial_production>
+    <production subservice="IndustrialGeneric" mode="1" multiplier="100" />
+    <production subservice="IndustrialFarming" mode="1" multiplier="100" />
+    <production subservice="IndustrialForestry" mode="1" multiplier="100" />
+    <production subservice="IndustrialOil" mode="1" multiplier="100" />
+    <production subservice="IndustrialOre" mode="1" multiplier="100" />
+  </industrial_production>
+  <extractor_production>
+    <production subservice="IndustrialFarming" mode="1" multiplier="100" />
+    <production subservice="IndustrialForestry" mode="1" multiplier="100" />
+    <production subservice="IndustrialOil" mode="1" multiplier="100" />
+    <production subservice="IndustrialOre" mode="1" multiplier="100" />
+    <production subservice="IndustrialGeneric" mode="1" multiplier="100" />
+  </extractor_production>
+  <commercial_inventory_caps>
+    <inventory subservice="CommercialLow" value="48000" />
+    <inventory subservice="CommercialHigh" value="48000" />
+    <inventory subservice="CommercialWallToWall" value="48000" />
+    <inventory subservice="CommercialEco" value="48000" />
+    <inventory subservice="CommercialLeisure" value="48000" />
+    <inventory subservice="CommercialTourist" value="48000" />
+  </commercial_inventory_caps>
+</Configuration>

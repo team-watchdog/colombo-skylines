@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetConfig>
+  <ExcludedAssets>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\881291183\r69-ploppableasphalt-1.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\881291183\r69-ploppableasphalt-2.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\881291183\r69-ploppableasphalt-3.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\881291183\r69-ploppableasphalt-4.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\881291183\r69-ploppableasphalt-decal-1.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\881291183\r69-ploppableasphalt-decal-2.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\1899640536\co-boreal-theme.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\1899640536\co-european-theme.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\1899640536\co-temperate-theme.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\1899640536\co-tropical-theme.crp</string>
+    <string>c:\program files (x86)\steam\steamapps\workshop\content\255710\1899640536\co-winter-theme.crp</string>
+  </ExcludedAssets>
+</AssetConfig>

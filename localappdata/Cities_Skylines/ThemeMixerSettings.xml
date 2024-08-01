@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeMixerSettings.xml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalMix>
+    <ID>_06b15585567149018c28687e74cbc880</ID>
+    <Atmosphere>
+      <Longitude>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>Longitude</Name>
+      </Longitude>
+      <Latitude>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>Latitude</Name>
+      </Latitude>
+      <SunSize>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>SunSize</Name>
+      </SunSize>
+      <SunAnisotropy>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>SunAnisotropy</Name>
+      </SunAnisotropy>
+      <Rayleigh>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>Rayleigh</Name>
+      </Rayleigh>
+      <Mie>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>Mie</Name>
+      </Mie>
+      <Exposure>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>Exposure</Name>
+      </Exposure>
+      <SkyTint>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>SkyTint</Name>
+      </SkyTint>
+      <MoonTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+      </MoonTexture>
+      <MoonSize>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MoonSize</Name>
+      </MoonSize>
+      <MoonInnerCorona>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MoonInnerCorona</Name>
+      </MoonInnerCorona>
+      <MoonOuterCorona>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MoonOuterCorona</Name>
+      </MoonOuterCorona>
+      <NightHorizonColor>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>NightHorizonColor</Name>
+      </NightHorizonColor>
+      <EarlyNightZenithColor>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>EarlyNightZenithColor</Name>
+      </EarlyNightZenithColor>
+      <LateNightZenithColor>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>LateNightZenithColor</Name>
+      </LateNightZenithColor>
+      <StarsIntensity>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>StarsIntensity</Name>
+      </StarsIntensity>
+      <OuterSpaceIntensity>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>OuterSpaceIntensity</Name>
+      </OuterSpaceIntensity>
+    </Atmosphere>
+    <Structures>
+      <UpwardRoadDiffuse>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>UpwardRoadDiffuse</Name>
+      </UpwardRoadDiffuse>
+      <DownwardRoadDiffuse>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>DownwardRoadDiffuse</Name>
+      </DownwardRoadDiffuse>
+      <BuildingFloorDiffuse>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>BuildingFloorDiffuse</Name>
+      </BuildingFloorDiffuse>
+      <BuildingBaseDiffuse>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>BuildingBaseDiffuse</Name>
+      </BuildingBaseDiffuse>
+      <BuildingBaseNormal>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>BuildingBaseNormal</Name>
+      </BuildingBaseNormal>
+      <BuildingBurntDiffuse>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>BuildingBurntDiffuse</Name>
+      </BuildingBurntDiffuse>
+      <BuildingAbandonedDiffuse>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>BuildingAbandonedDiffuse</Name>
+      </BuildingAbandonedDiffuse>
+      <LightColorPalette>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>LightColorPalette</Name>
+      </LightColorPalette>
+    </Structures>
+    <Terrain>
+      <GrassDiffuseTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>GrassDiffuseTexture</Name>
+      </GrassDiffuseTexture>
+      <RuinedDiffuseTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>RuinedDiffuseTexture</Name>
+      </RuinedDiffuseTexture>
+      <PavementDiffuseTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>PavementDiffuseTexture</Name>
+      </PavementDiffuseTexture>
+      <GravelDiffuseTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>GravelDiffuseTexture</Name>
+      </GravelDiffuseTexture>
+      <CliffDiffuseTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>CliffDiffuseTexture</Name>
+      </CliffDiffuseTexture>
+      <SandDiffuseTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>SandDiffuseTexture</Name>
+      </SandDiffuseTexture>
+      <OilDiffuseTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>OilDiffuseTexture</Name>
+      </OilDiffuseTexture>
+      <OreDiffuseTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>OreDiffuseTexture</Name>
+      </OreDiffuseTexture>
+      <CliffSandNormalTexture>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>CliffSandNormalTexture</Name>
+      </CliffSandNormalTexture>
+      <GrassPollutionColorOffset>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>GrassPollutionColorOffset</Name>
+      </GrassPollutionColorOffset>
+      <GrassFieldColorOffset>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>GrassFieldColorOffset</Name>
+      </GrassFieldColorOffset>
+      <GrassFertilityColorOffset>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>GrassFertilityColorOffset</Name>
+      </GrassFertilityColorOffset>
+      <GrassForestColorOffset>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>GrassForestColorOffset</Name>
+      </GrassForestColorOffset>
+      <GrassDetailEnabled>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <DetailName>GrassDetailEnabled</DetailName>
+      </GrassDetailEnabled>
+      <FertileDetailEnabled>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <DetailName>FertileDetailEnabled</DetailName>
+      </FertileDetailEnabled>
+      <RocksDetailEnabled>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <DetailName>RocksDetailEnabled</DetailName>
+      </RocksDetailEnabled>
+    </Terrain>
+    <Water>
+      <WaterFoam>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>WaterFoam</Name>
+      </WaterFoam>
+      <WaterNormal>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>WaterNormal</Name>
+      </WaterNormal>
+      <WaterClean>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>WaterClean</Name>
+      </WaterClean>
+      <WaterDirty>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>WaterDirty</Name>
+      </WaterDirty>
+      <WaterUnder>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>WaterUnder</Name>
+      </WaterUnder>
+    </Water>
+    <Weather>
+      <MinTemperatureDay>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MinTemperatureDay</Name>
+      </MinTemperatureDay>
+      <MaxTemperatureDay>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MaxTemperatureDay</Name>
+      </MaxTemperatureDay>
+      <MinTemperatureNight>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MinTemperatureNight</Name>
+      </MinTemperatureNight>
+      <MaxTemperatureNight>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MaxTemperatureNight</Name>
+      </MaxTemperatureNight>
+      <MinTemperatureRain>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MinTemperatureRain</Name>
+      </MinTemperatureRain>
+      <MaxTemperatureRain>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MaxTemperatureRain</Name>
+      </MaxTemperatureRain>
+      <MinTemperatureFog>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MinTemperatureFog</Name>
+      </MinTemperatureFog>
+      <MaxTemperatureFog>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>MaxTemperatureFog</Name>
+      </MaxTemperatureFog>
+      <RainProbabilityDay>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>RainProbabilityDay</Name>
+      </RainProbabilityDay>
+      <RainProbabilityNight>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>RainProbabilityNight</Name>
+      </RainProbabilityNight>
+      <FogProbabilityDay>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>FogProbabilityDay</Name>
+      </FogProbabilityDay>
+      <FogProbabilityNight>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>FogProbabilityNight</Name>
+      </FogProbabilityNight>
+      <NorthernLightsProbability>
+        <ThemeID>1899640536.CO-Tropical-Theme</ThemeID>
+        <Name>NorthernLightsProbability</Name>
+      </NorthernLightsProbability>
+    </Weather>
+  </LocalMix>
+  <DisableCompile>false</DisableCompile>
+  <ToolbarPosition xsi:nil="true" />
+  <UITogglePosition xsi:nil="true" />
+  <Favourites>
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+  </Favourites>
+  <Blacklisted>
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+  </Blacklisted>
+  <SavedSwatches>
+    <ArrayOfSavedSwatch />
+    <ArrayOfSavedSwatch />
+    <ArrayOfSavedSwatch />
+    <ArrayOfSavedSwatch />
+    <ArrayOfSavedSwatch />
+    <ArrayOfSavedSwatch />
+    <ArrayOfSavedSwatch />
+    <ArrayOfSavedSwatch />
+    <ArrayOfSavedSwatch />
+  </SavedSwatches>
+</ThemeMixerSettings.xml>

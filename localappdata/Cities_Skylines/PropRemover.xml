@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <removeSmoke>true</removeSmoke>
+  <removeSteam>true</removeSteam>
+  <removeClownHeads>true</removeClownHeads>
+  <removeIceCones>true</removeIceCones>
+  <removeDoughnutSquirrels>true</removeDoughnutSquirrels>
+  <removeRandom3dBillboards>true</removeRandom3dBillboards>
+  <removeOctopodes>true</removeOctopodes>
+  <removeFlatBillboards>true</removeFlatBillboards>
+  <removeAnimatedBillboards>true</removeAnimatedBillboards>
+  <removeLogoBillboards>false</removeLogoBillboards>
+  <removeNeonChirpy>true</removeNeonChirpy>
+  <removeWallFlags>true</removeWallFlags>
+  <removeSolarPanels>true</removeSolarPanels>
+</Options>

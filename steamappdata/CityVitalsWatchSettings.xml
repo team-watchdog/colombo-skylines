@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CityVitalsWatchSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Resolutions>
+    <CityVitalsWatchResolution>
+      <ScreenWidth>1600</ScreenWidth>
+      <ScreenHeight>900</ScreenHeight>
+      <PanelPositionX>10</PanelPositionX>
+      <PanelPositionY>65</PanelPositionY>
+      <ToggleButtonPositionX>125</ToggleButtonPositionX>
+      <ToggleButtonPositionY>12</ToggleButtonPositionY>
+    </CityVitalsWatchResolution>
+  </Resolutions>
+  <DefaultPanelVisibility>true</DefaultPanelVisibility>
+  <TransparentUnhovered>true</TransparentUnhovered>
+  <DisplayElectricityAvailability>true</DisplayElectricityAvailability>
+  <DisplayWaterAvailability>true</DisplayWaterAvailability>
+  <DisplaySewageTreatment>true</DisplaySewageTreatment>
+  <DisplayLandfillUsage>true</DisplayLandfillUsage>
+  <DisplayIncinerationStatus>true</DisplayIncinerationStatus>
+  <DisplayHealthcareAvailability>false</DisplayHealthcareAvailability>
+  <DisplayAverageHealth>false</DisplayAverageHealth>
+  <DisplayCemeteryUsage>true</DisplayCemeteryUsage>
+  <DisplayCrematoriumAvailability>true</DisplayCrematoriumAvailability>
+  <DisplayFireHazard>false</DisplayFireHazard>
+  <DisplayCrimeRate>false</DisplayCrimeRate>
+  <DisplayJailAvailability>false</DisplayJailAvailability>
+  <DisplayElementarySchoolAvailability>false</DisplayElementarySchoolAvailability>
+  <DisplayHighSchoolAvailability>false</DisplayHighSchoolAvailability>
+  <DisplayUniversityAvailability>false</DisplayUniversityAvailability>
+  <DisplayEmployment>true</DisplayEmployment>
+</CityVitalsWatchSettings>

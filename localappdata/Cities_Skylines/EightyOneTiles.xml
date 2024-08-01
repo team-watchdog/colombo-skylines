@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EightyOneTiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>default</Language>
+  <WhatsNewVersion>0.0</WhatsNewVersion>
+  <DetailedLogging>false</DetailedLogging>
+  <IgnoreUnlocking>false</IgnoreUnlocking>
+  <CrossTheLine>false</CrossTheLine>
+  <NoPowerlines>true</NoPowerlines>
+  <ElectricRoads>true</ElectricRoads>
+  <NoPipes>true</NoPipes>
+  <IgnoreOriginalWater>false</IgnoreOriginalWater>
+  <IgnoreExpanded>false</IgnoreExpanded>
+</EightyOneTiles>

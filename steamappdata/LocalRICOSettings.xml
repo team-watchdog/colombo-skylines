@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PloppableRICODefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Buildings>
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" name="Transport Tower" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" name="City Hall" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" name="ScienceCenter" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" name="Posh Mall" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" name="Oppression Office" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" name="Grand Mall" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" name="Court House" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" name="Academic Library 01" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" growable="true" name="H1 1x1 Tenement" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="2" level="1" growable="true" name="H1 2x2 Tenement05" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="3" level="1" growable="true" name="H1 2x3 Tenement02" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="3" level="1" growable="true" name="H1 3x2 Tenement01" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="3" level="1" growable="true" name="H1 3x2 Tenement04" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="5" level="1" growable="true" name="H1 3x3 Tenement03" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="5" level="1" growable="true" name="H1 3x3 Tenement08" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="7" level="1" growable="true" name="H1 3x4 Tenement07" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="7" level="1" growable="true" name="H1 4x3 Tenement02" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="7" level="1" growable="true" name="H1 4x3 Tenement08" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="9" level="1" growable="true" name="H1 4x4 Tenement03" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="high" homes="9" level="1" growable="true" name="H1 4x4 Tenement04a" construction-cost="10" ui-category="reshigh" />
+    <Building service="residential" density="0" sub-service="low" homes="1" level="1" growable="true" name="L1 2x2 Detached03" construction-cost="10" ui-category="reslow" />
+    <Building service="residential" density="0" sub-service="low" homes="1" level="1" growable="true" name="L1 2x2 Detached06" construction-cost="10" ui-category="reslow" />
+    <Building service="residential" density="0" sub-service="low" homes="1" level="2" growable="true" name="L2 2x3 Semi-detachedhouse01" construction-cost="10" ui-category="reslow" />
+    <Building service="residential" density="0" sub-service="low" homes="1" level="2" growable="true" name="L2 3x2 Detached01" construction-cost="10" ui-category="reslow" />
+    <Building service="residential" density="0" sub-service="low" homes="1" level="3" growable="true" name="L3 2x2 Detached12" construction-cost="10" ui-category="reslow" />
+    <Building service="residential" density="0" sub-service="low" homes="2" level="5" growable="true" name="L5 2x3 Villa07" construction-cost="10" ui-category="reslow" />
+    <Building service="commercial" density="0" sub-service="low" homes="2" level="1" growable="true" name="L3 1x1 Shop" construction-cost="10" ui-category="comlow" workplaces="2,0,0,0" />
+    <Building service="commercial" density="0" sub-service="low" homes="6" level="3" growable="true" name="L3 3x2 Shop18" construction-cost="10" ui-category="comlow" workplaces="0,1,2,3" />
+    <Building service="commercial" density="0" sub-service="low" homes="2" level="2" growable="true" name="L2 1x1 Shop08" construction-cost="10" ui-category="comlow" workplaces="0,1,1,0" />
+    <Building service="commercial" density="0" sub-service="low" homes="3" level="1" growable="true" name="L1 3x2 Shop03b" construction-cost="10" ui-category="comlow" workplaces="3,0,0,0" />
+    <Building service="commercial" density="0" sub-service="high" homes="15" level="3" growable="true" name="H3 4x3 Shop12" construction-cost="10" ui-category="comhigh" workplaces="0,0,6,9" />
+    <Building service="office" density="0" sub-service="none" homes="2" level="1" growable="true" name="H1 1x2 Office13" construction-cost="10" ui-category="office" workplaces="0,0,2,0" />
+    <Building service="office" density="0" sub-service="none" homes="3" level="1" growable="true" name="H1 2x3 Office01" construction-cost="10" ui-category="office" workplaces="0,1,2,0" />
+    <Building service="residential" density="0" sub-service="high" homes="1" level="1" name="Landfill Site" construction-cost="10" ui-category="reshigh" />
+  </Buildings>
+</PloppableRICODefinition>

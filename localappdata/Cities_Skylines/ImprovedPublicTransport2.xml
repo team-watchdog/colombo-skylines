@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpeedString>km/h</SpeedString>
+  <ShowLineInfo>true</ShowLineInfo>
+  <BudgetControl>true</BudgetControl>
+  <CompatibilityMode>false</CompatibilityMode>
+  <IntervalAggressionFactor>15</IntervalAggressionFactor>
+  <DefaultVehicleCount>0</DefaultVehicleCount>
+  <SpawnTimeInterval>10</SpawnTimeInterval>
+  <StatisticWeeks>10</StatisticWeeks>
+  <VehicleEditorPosition>0</VehicleEditorPosition>
+  <HideVehicleEditor>false</HideVehicleEditor>
+</Settings>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmergencyOnly_RemoveAllTrees>false</EmergencyOnly_RemoveAllTrees>
+  <UseNoWindEffects>false</UseNoWindEffects>
+  <DebugLoggingLevel>0</DebugLoggingLevel>
+  <UseCustomLogFile>false</UseCustomLogFile>
+  <CustomLogFilePath>TreeUnlimiter_Log.txt</CustomLogFilePath>
+  <NullTreeOptionsIndex>0</NullTreeOptionsIndex>
+  <GhostModeEnabled>false</GhostModeEnabled>
+  <ScaleFactor>4</ScaleFactor>
+  <MaxTrees>Maximum trees</MaxTrees>
+</Configuration>

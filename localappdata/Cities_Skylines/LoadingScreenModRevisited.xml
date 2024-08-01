@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LoadingScreenModRevisited xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>default</Language>
+  <WhatsNewVersion>0.0</WhatsNewVersion>
+  <DetailedLogging>false</DetailedLogging>
+  <BackgroundImageMode>Standard</BackgroundImageMode>
+  <BackgroundImageScaling>ScaleToFit</BackgroundImageScaling>
+  <LocalImageDir>C:\Users\Nimesha\AppData\Local\Colossal Order\Cities_Skylines\LoadingImages</LocalImageDir>
+  <ShowDuplicateWarnings>false</ShowDuplicateWarnings>
+  <OverlayAlpha>0.6</OverlayAlpha>
+  <TextSize>18</TextSize>
+  <loadEnabled>true</loadEnabled>
+  <loadUsed>true</loadUsed>
+  <skipPrefabs>true</skipPrefabs>
+  <skipFile>C:\Users\Nimesha\AppData\Local\Colossal Order\Cities_Skylines\SkippedPrefabs\skip.txt</skipFile>
+  <hideAssets>false</hideAssets>
+  <shareTextures>true</shareTextures>
+  <shareMaterials>false</shareMaterials>
+  <shareMeshes>true</shareMeshes>
+  <optimizeThumbs>true</optimizeThumbs>
+  <reportAssets>true</reportAssets>
+  <checkAssets>true</checkAssets>
+  <reportDir>C:\Users\Nimesha\AppData\Local\Colossal Order\Cities_Skylines\Report\LoadingScreenMod</reportDir>
+  <removeVehicles>false</removeVehicles>
+  <removeCitizenInstances>false</removeCitizenInstances>
+  <recover>true</recover>
+</LoadingScreenModRevisited>

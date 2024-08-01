@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HideClouds>true</HideClouds>
+  <LodFactorMultiplierProps>200</LodFactorMultiplierProps>
+  <DistanceOffsetProps>100</DistanceOffsetProps>
+  <LodDistanceMultiplierProps>0.25</LodDistanceMultiplierProps>
+  <FallbackRenderDistanceProps>1000</FallbackRenderDistanceProps>
+  <LodFactorMultiplierBuildings>200</LodFactorMultiplierBuildings>
+  <DistanceOffsetBuildings>100</DistanceOffsetBuildings>
+  <LodDistanceMultiplierBuildings>0.25</LodDistanceMultiplierBuildings>
+  <FallbackRenderDistanceBuildings>1000</FallbackRenderDistanceBuildings>
+</Options>

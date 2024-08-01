@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NetworkSkinsSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SaveActiveSelectionGlobally>true</SaveActiveSelectionGlobally>
+  <HideBlacklisted>false</HideBlacklisted>
+  <DisplayAtSelected>true</DisplayAtSelected>
+  <LanePositionLocked>false</LanePositionLocked>
+  <ToolbarPosition>
+    <x>1889</x>
+    <y>698</y>
+  </ToolbarPosition>
+  <Favourites>
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+  </Favourites>
+  <Blacklisted>
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+    <ArrayOfString />
+  </Blacklisted>
+  <Swatches />
+  <SavedSwatches />
+  <GlobalActiveSelectionData />
+</NetworkSkinsSettings>

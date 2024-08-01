@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AsphaltColor>
+    <r>128</r>
+    <g>128</g>
+    <b>128</b>
+    <a>1</a>
+  </AsphaltColor>
+  <AutoDeployed>false</AutoDeployed>
+</Configuration>

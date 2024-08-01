@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModConfig>
+  <ConfigUpdated>false</ConfigUpdated>
+  <AbandonedBuildings>true</AbandonedBuildings>
+  <BurnedDownBuildings>true</BurnedDownBuildings>
+  <CollapsedBuildings>true</CollapsedBuildings>
+  <FloodedBuildings>true</FloodedBuildings>
+  <Interval>4</Interval>
+  <MaxBuildingsPerInterval>32</MaxBuildingsPerInterval>
+  <PreserveHistoricalBuildings>true</PreserveHistoricalBuildings>
+  <IgnoreSearchingForSurvivors>true</IgnoreSearchingForSurvivors>
+  <ShowCounters>true</ShowCounters>
+  <ShowStatistics>true</ShowStatistics>
+</ModConfig>

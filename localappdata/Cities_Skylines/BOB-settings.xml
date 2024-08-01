@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TreePropReplacer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>default</Language>
+  <WhatsNewVersion>0.0</WhatsNewVersion>
+  <DetailedLogging>false</DetailedLogging>
+  <PanelKey KeyCode="98" Control="false" Shift="false" Alt="true" />
+  <TreeToolKey KeyCode="116" Control="false" Shift="false" Alt="true" />
+  <GroupDefault>0</GroupDefault>
+  <RememberPos>false</RememberPos>
+  <StopTreeRuining>false</StopTreeRuining>
+  <StopPropRuining>false</StopPropRuining>
+  <ThinnerWires>false</ThinnerWires>
+  <DisableNetworkTreeTool>false</DisableNetworkTreeTool>
+</TreePropReplacer>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>default</Language>
+  <WhatsNewVersion>0.0</WhatsNewVersion>
+  <DetailedLogging>false</DetailedLogging>
+  <ShowWhatsNew>true</ShowWhatsNew>
+  <WarnedPTG>0</WarnedPTG>
+  <PlopRico>true</PlopRico>
+  <PlopOther>true</PlopOther>
+  <NoCollapse>true</NoCollapse>
+  <NoZonesRico>true</NoZonesRico>
+  <NoZonesOther>true</NoZonesOther>
+  <NoSpecRico>true</NoSpecRico>
+  <NoSpecOther>true</NoSpecOther>
+  <NoStyleDespawn>false</NoStyleDespawn>
+  <NoValueRicoPlop>true</NoValueRicoPlop>
+  <NoValueRicoGrow>true</NoValueRicoGrow>
+  <NoValueOther>true</NoValueOther>
+  <NoServicesRicoPlop>true</NoServicesRicoPlop>
+  <NoServicesRicoGrow>true</NoServicesRicoGrow>
+  <NoServicesOther>true</NoServicesOther>
+  <MakeRicoHistorical>true</MakeRicoHistorical>
+  <MakeOtherHistorical>false</MakeOtherHistorical>
+  <LockRicoLevel>false</LockRicoLevel>
+  <LockOtherLevel>false</LockOtherLevel>
+  <SpeedBoost>false</SpeedBoost>
+  <DebugLogging>false</DebugLogging>
+  <WarnBulldoze>false</WarnBulldoze>
+  <AutoDemolish>false</AutoDemolish>
+  <ThumbBacks>2</ThumbBacks>
+  <OverrideCost>false</OverrideCost>
+  <CostPerHousehold>100</CostPerHousehold>
+  <CostMultResLevel>20</CostMultResLevel>
+  <CostPerUneducated>20</CostPerUneducated>
+  <CostPerEducated>25</CostPerEducated>
+  <CostPerWellEducated>30</CostPerWellEducated>
+  <CostPerHighlyEducated>35</CostPerHighlyEducated>
+</SettingsFile>

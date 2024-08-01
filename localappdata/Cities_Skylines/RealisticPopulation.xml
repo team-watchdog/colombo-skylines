@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>default</Language>
+  <WhatsNewVersion>2.2.4.0</WhatsNewVersion>
+  <DetailedLogging>false</DetailedLogging>
+  <PanelKey KeyCode="101" Control="false" Shift="false" Alt="true" />
+  <NewSavesDefaultRes>New</NewSavesDefaultRes>
+  <NewSavesDefaultCom>New</NewSavesDefaultCom>
+  <NewSavesDefaultInd>New</NewSavesDefaultInd>
+  <NewSavesDefaultOff>New</NewSavesDefaultOff>
+  <EnableSchoolPop>true</EnableSchoolPop>
+  <EnableSchoolProperties>true</EnableSchoolProperties>
+  <DefaultSchoolMultiplier>3</DefaultSchoolMultiplier>
+  <CrimeRateMultiplier>50</CrimeRateMultiplier>
+  <Metric>true</Metric>
+  <UnlockZoning>false</UnlockZoning>
+</SettingsFile>

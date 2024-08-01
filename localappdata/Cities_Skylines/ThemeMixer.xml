@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeMixer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>default</Language>
+  <WhatsNewVersion>0.0</WhatsNewVersion>
+  <DetailedLogging>true</DetailedLogging>
+  <ToggleKey KeyCode="108" Control="false" Shift="true" Alt="false" />
+</ThemeMixer>

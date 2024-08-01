@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stockLuts>true</stockLuts>
+  <sunlightColor>true</sunlightColor>
+  <sunlightIntensity>true</sunlightIntensity>
+  <sunPosition>true</sunPosition>
+  <fogEffect>true</fogEffect>
+  <fogColor>true</fogColor>
+  <allowClassicFogEffectIfDayNightIsOn>true</allowClassicFogEffectIfDayNightIsOn>
+</Options>
