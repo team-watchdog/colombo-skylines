@@ -81,6 +81,7 @@ The result was a highly accurate representation:
 
 ![image](https://github.com/user-attachments/assets/4f8b3f0a-e96b-48eb-8d79-8c9f538e8728)
 
+![image](https://github.com/user-attachments/assets/be49f6f4-f6ce-4013-ba47-b1f069da5938)
 
 ### 2. Land Use and Zoning
 
