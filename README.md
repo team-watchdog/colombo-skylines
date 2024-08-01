@@ -82,7 +82,7 @@ We focused on recreating the Colombo Municipal Council (CMC) area as of 2020. Ke
 - Rebuilding each visible road using overlap maps from CMC and Google Maps
 
 The result was a highly accurate representation:
-- 7728 m long (real city: 7780m)
+- 7728 m long from the tip of Dehiwala to a measuring point near the Presidential Secretariat (real city for the same: 7780m)
 - 4585.6 m at its widest (reality: 4611.2m)
 - Over 99% match in road layout, parks, and water bodies
 
