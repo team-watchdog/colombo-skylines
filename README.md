@@ -93,7 +93,7 @@ We extracted land-use data from the Colombo city development plan and mapped it 
 
 ### 3. Administrative Divisions
 
-- We partitioned the city into 15 districts based on Colombo Municipal Council maps, allowing for more granular statistical observation and population calibration.
+We partitioned the city into 15 districts based on Colombo Municipal Council maps, allowing for more granular statistical observation and population calibration.
 ![image](https://github.com/user-attachments/assets/7e945d3e-b757-4620-9f42-ee53120056b2)
 
 ### 4. Citizens and Populations
