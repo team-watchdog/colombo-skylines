@@ -107,7 +107,7 @@ We partitioned the city into 15 districts based on Colombo Municipal Council map
 ### 4. Citizens and Populations
 
 - Estimated 2020 population for the CMC area: 1,048,000 total people (555,300 night-time population, 492,700 commuters)
-- Our current version sits at  1,020,775 virtual citizens, with the CMC area modelled and population centers along extended corridors to simulate commuter influx 
+- Our current version sits at  1,044,500 virtual citizens, with the CMC area modelled and population centers along extended corridors to simulate commuter influx 
 - Using Realistic Population 2 2.2.2.4 and Lifecycle Rebalance Revisited 1.6.8, we've adjusted settings to mimic real-world population density and demographics - citizens age, go to schools, work and die in ways closer to real-world analogues than Skyline's default assumptoins
 
 
