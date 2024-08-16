@@ -7,6 +7,9 @@ This repository contains Team Watchdog's simulation of the city of Colombo. This
 
 We've also set up a [wiki to explain how we did it and how you can get this running on your own machine](https://github.com/team-watchdog/colombo-skylines/wiki).
 
+> [!NOTE]  
+> Tested on Windows 11 and Pop OS 22.04 LTS. To make it easier to install, we've uploaded the full folder structure, including mod configs.
+
 This project is built with the use of publicly available data from
 - Colombo Municipal Council
 - Sri Lanka Road Development Authority
