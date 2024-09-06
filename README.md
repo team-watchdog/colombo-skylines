@@ -23,7 +23,6 @@ This project is built with the use of publicly available data from
 - ESA's Sentinel-2 program, from which we've gotten a lot of satellite imagery: see [https://github.com/team-watchdog/satellite2024](https://github.com/team-watchdog/satellite2024)
 - Google Maps and Routemaster.lk for bus and train routes
 
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
@@ -34,9 +33,11 @@ This project is built with the use of publicly available data from
    - [Citizens and Populations](#4-citizens-and-populations)
    - [Transport](#5-transport)
    - [Visuals](#6-visuals)
-4. [Key Findings and Limitations](#key-findings-and-limitations)
-5. [Conclusion and Future Applications](#conclusion-and-future-applications)
-6. [References and Data Sources](#references-and-data-sources)
+4. [Key Limitations](#key-limitations)
+5. [More Information](#more-information)
+6. [License](#license)
+7. [Acknowledgements](#acknowledgements)
+8. [Contact](#contact)
 
 ## Introduction
 
